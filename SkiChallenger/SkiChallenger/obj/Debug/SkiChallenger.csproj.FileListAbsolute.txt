@@ -1,0 +1,5 @@
+C:\Users\dev\Documents\Visual Studio 2008\Projects\SkiChallenger\SkiChallenger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2008\Projects\SkiChallenger\SkiChallenger\bin\SkiChallenger.dll
+C:\Users\dev\Documents\Visual Studio 2008\Projects\SkiChallenger\SkiChallenger\bin\SkiChallenger.pdb
+C:\Users\dev\Documents\Visual Studio 2008\Projects\SkiChallenger\SkiChallenger\obj\Debug\SkiChallenger.dll
+C:\Users\dev\Documents\Visual Studio 2008\Projects\SkiChallenger\SkiChallenger\obj\Debug\SkiChallenger.pdb
